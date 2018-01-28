@@ -8,7 +8,7 @@ ___
 * [my work](#mywork)
 ___
 ## mywork  
-I am a Phd. student from UCAS,majoed in nuclear engineering and design
+  I am a Phd. student from UCAS,majoed in nuclear engineering and design
 ## myinterest  
 ### motobike  
 ### camera  
