@@ -7,12 +7,12 @@ ___
 ## 目录
 * [my work](#mywork)
 ___
-## mywork  
+## mywork  
+I am a Phd. student from UCAS,majoed in nuclear engineering and design
 ## myinterest  
 ### motobike  
 ### camera  
-# 一级标题  
-## 二级标题  
+
 
 
 --------------------------------
