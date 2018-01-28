@@ -5,10 +5,10 @@ ___
 |email|chenkk@impcas.ac.cn
 ___
 ## 目录
-* [my work](#目录)
+* [my work](#mywork)
 ___
 ## mywork  
-## my interest  
+## myinterest  
 ### motobike  
 ### camera  
 # 一级标题  
