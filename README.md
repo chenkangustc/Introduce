@@ -5,14 +5,14 @@ ___
 |email|chenkk@impcas.ac.cn
 ___
 ## 目录
-* [my work](#my work)
-* [my interest](#my interest)
+* [my work](#work)
+* [my interest](#interest)
 	* [motobike](#motobike)
 	* [camera](#camera)
 ___
-## my work  
+## work  
 	I am a Phd. student from UCAS,majoed in nuclear engineering and design
-## my interest  
+## interest  
 ### motobike  
 ### camera  
 
